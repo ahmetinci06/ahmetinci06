@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmetinci06
 - 👀 I’m interested in All of things about Computers, electricity, physics and math!
 - 🌱 I’m currently learning to create a Discord Bot with JavaScript.
-- 💞️ I’m looking to collaborate on My repositorys.
+- 💞️ I’m looking to collaborate on My repositories.
 - 📫 Reach me by e-mail, instagram or twitter.
 
 <!---
